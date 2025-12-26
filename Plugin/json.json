@@ -1,39 +1,39 @@
 {
-  "name": "PluginApp",
-  "announcement": "Welcome to PluginApp! Select a plugin to download.",
+  "name": "PluginHub",
+  "announcement": "Welcome to PluginHub! Choose a plugin to download.",
   "stub_version": "1.0",
   "versions": [
     {
-      "name": "PubgLoader 1",
+      "name": "PubgLoader FB & X",
       "version": "1.0",
       "package_name": "com.cheatbox",
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmicanvas_2_1.apk",
-      "description": "Canvas-based graphics enhancement plugin for improved rendering performance",
+      "plugin_link": "https://github.com/legionalpha18/PluunApp/raw/refs/heads/main/app/HCore16_1.0.apk",
+      "description": "Supports Facebook and X login methods.",
       "enabled": true
     },
     {
-      "name": "PubgLoader 2",
+      "name": "PubgLoader X & Apple",
       "version": "1.0",
       "package_name": "com.cheatbox",
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmiimgui_2_1.apk",
-      "description": "IMGUI interface plugin for advanced UI customization and overlays",
+      "plugin_link": "https://github.com/legionalpha18/PluunApp/raw/refs/heads/main/app/Bcore_1.0.apk",
+      "description": "Supports X QR login and Apple email sign-in.",
       "enabled": true
     },
     {
-      "name": "PubgLoader 3",
+      "name": "PubgLoader Pixel Edition",
       "version": "1.0",
       "package_name": "com.cheatbox",
-      "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmi.so_2.1_GS.apk",
-      "description": "Game speed optimization plugin for smoother gameplay experience",
+      "plugin_link": "https://github.com/legionalpha18/PluunApp/raw/refs/heads/main/app/BcorePixle_1.0.apk",
+      "description": "Optimized for Pixel devices running Android 16.",
       "enabled": true
     },
     {
-      "name": "PubgLoader 4",
+      "name": "PubgLoader Automation",
       "version": "1.0",
       "package_name": "com.pubgm",
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libauto_2_1.apk",
-      "description": "Automation utility plugin for enhanced game functionality",
-      "enabled": true
+      "description": "Automation tools for advanced gameplay features.",
+      "enabled": false
     }
   ]
 }
