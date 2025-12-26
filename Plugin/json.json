@@ -6,29 +6,33 @@
     {
       "name": "PubgLoader 1",
       "version": "1.0",
-      "package_name": "com.cheatbox", 
+      "package_name": "com.cheatbox",
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmicanvas_2_1.apk",
+      "description": "Canvas-based graphics enhancement plugin for improved rendering performance",
       "enabled": true
     },
     {
       "name": "PubgLoader 2",
       "version": "1.0",
-        "package_name": "com.cheatbox", 
+      "package_name": "com.cheatbox",
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmiimgui_2_1.apk",
-      "enabled": true 
+      "description": "IMGUI interface plugin for advanced UI customization and overlays",
+      "enabled": true
     },
     {
       "name": "PubgLoader 3",
       "version": "1.0",
-        "package_name": "com.cheatbox", 
+      "package_name": "com.cheatbox",
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libbgmi.so_2.1_GS.apk",
+      "description": "Game speed optimization plugin for smoother gameplay experience",
       "enabled": true
     },
     {
       "name": "PubgLoader 4",
       "version": "1.0",
-        "package_name": "com.pubgm", 
+      "package_name": "com.pubgm",
       "plugin_link": "https://github.com/thenextlevelowner-hub/ApkUpdate/raw/refs/heads/main/libauto_2_1.apk",
+      "description": "Automation utility plugin for enhanced game functionality",
       "enabled": true
     }
   ]
