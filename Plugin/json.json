@@ -1,6 +1,6 @@
 {
-  "name": "BGMi-Loader WD",
-  "announcement": "Welcome to PliginApp! Select a plugin to download.",
+  "name": "PluginApp",
+  "announcement": "Welcome to PluginApp! Select a plugin to download.",
   "stub_version": "1.0",
   "versions": [
     {
